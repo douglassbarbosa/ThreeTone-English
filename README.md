@@ -1,4 +1,4 @@
-# 🧠 English GPT Tips
+# 🧠 ThreeTone English
 
 ![Version](https://img.shields.io/badge/version-0.1.0--beta-orange.svg)
 ![Node](https://img.shields.io/badge/node-%3E%3D20-green.svg)
