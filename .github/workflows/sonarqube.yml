@@ -1,5 +1,4 @@
 # Default SonarQube Cloud workflow for GitHub Actions - covering MR and Merge
-# Douglas Barbosa - douglasbarbosa.com
 
 name: SonarQube Analysis
 
